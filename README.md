@@ -1,2 +1,2 @@
 # atlantis
-membuat website dengan framework turunan bootstrap (atlantis-lite)
+belajar membuat website menggunakan framework turunan bootstrap (atlantis-lite)
